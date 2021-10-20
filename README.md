@@ -15,6 +15,9 @@ This directory includes scripts that we used to try different models on the data
 * train model.R: the R script to implement our final model of multiple linear regression model with leaving one out cross validation. 
 * XGboost.ipynb: the Python script to implement the XGBoost model
 
+# Model 
+This directory includes the scripts we used for our final model as well as the predictions. 
+
 # Shiny App
 This directory includes the R script to build the web-based shiny app based on the final model we got.
 
