@@ -16,7 +16,7 @@ This directory includes scripts that we used to try different models on the data
 * XGboost.ipynb: the Python script to implement the XGBoost model
 
 # Model 
-This directory includes the scripts we used for our final model as well as the predictions. 
+This directory includes the scripts we used for our final model as well as some predictions  
 
 # Shiny App
 This directory includes the R script to build the web-based shiny app based on the final model we got.
