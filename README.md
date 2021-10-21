@@ -28,4 +28,5 @@ This directory includes the R script to build the web-based shiny app based on t
 # Summary and Presentation
 This directory includes the pdf file of our executive summary and presentation slide for this body fat study.
 * STAT_628_Module2_Group_11_BodyFat_Project_Summary.pdf: our executive summary
-* Stat628 Module2 Group 11 BodyFat Project Presentation.pptx: our presentation slide
+* Stat628Module2Group11BodyFatProjectPresentation.pptx: our presentation slide pptx version
+* Stat628Module2Group11BodyFatProjectPresentation.pdf: our presentation slide pdf version
