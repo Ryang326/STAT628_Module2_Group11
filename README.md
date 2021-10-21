@@ -12,14 +12,18 @@ This directory includes original datasets, cleaned version datasets and the R sc
 This directory includes scripts that we used to try different models on the data and to choose the important variables.
 * LASSO.R: the R script to implement the lasso regression model and feature selection.
 * RandomForest.ipynb: the Python script to implement the random forest model
-* train model.R: the R script to implement our final model of multiple linear regression model with leaving one out cross validation. 
+* train model.R: the R script to implement our models of multiple linear regression model with leaving one out cross validation. 
 * XGboost.ipynb: the Python script to implement the XGBoost model
+* ModelSelection&Diagnosis.R: the R script to select three different multiple linear regression models
 
-# Model 
-This directory includes the scripts we used for our final model as well as some predictions  
-
+# Final Model 
+This directory includes the script we used for our final model as well as some predictions and diagnosis  
+* finalmodel.R: the R script to implement our final model of multiple linear regression model with leaving one out cross validation. 
 # Shiny App
 This directory includes the R script to build the web-based shiny app based on the final model we got.
+* BODYFATCALCULATOR-GROUP11.zip: the zip file to build our shiny app
 
 # Summary and Presentation
 This directory includes the pdf file of our executive summary and presentation slide for this body fat study.
+* STAT 628 Module2 Group 11 BodyFat Project Summary.pdf: our executive summary
+* Stat628 Module2 Group 11 BodyFat Project Presentation.pptx: our presentation slide
