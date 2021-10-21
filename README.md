@@ -21,7 +21,7 @@ This directory includes scripts that we used to try different models on the data
 * ModelSelection&Diagnosis.R: the R script to select three different multiple linear regression models
 
 
-# Shiny App
+# Shiny App [link](https://tinghuixu1114.shinyapps.io/bodyfatcalculator-group11/)
 This directory includes the R script to build the web-based shiny app based on the final model we got.
 * BODYFATCALCULATOR-GROUP11.zip: the zip file to build our shiny app
 
